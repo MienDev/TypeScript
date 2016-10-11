@@ -2,7 +2,11 @@
 
 [![Build Status](https://travis-ci.org/zhongsp/TypeScript.svg?branch=master)](https://travis-ci.org/zhongsp/TypeScript)
 
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
+[TypeScript 2.0 正式发布!](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/?utm_source=javascriptweekly&utm_medium=email)
+
+![TypeScript Statistics](https://msdnshared.blob.core.windows.net/media/2016/09/ts-2-0-npm-downloads.png)
+
+TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript.  http://www.typescriptlang.org
 
 请阅读 :book: [TypeScript Handbook 中文版 - Published with GitBook](http://zhongsp.gitbooks.io/typescript-handbook/content/)
 
@@ -16,6 +20,7 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   * [Knockout.js](./doc/handbook/tutorials/Knockout.md)
   * [React与webpack](./doc/handbook/tutorials/React & Webpack.md)
   * [Angular 2](./doc/handbook/tutorials/Angular 2.md)
+  * [从JavaScript迁移到TypeScript](./doc/handbook/tutorials/Migrating from JavaScript.md)
 * [新增功能](./doc/release-notes/README.md)
   * [TypeScript 1.8](./doc/release-notes/TypeScript 1.8.md)
   * [TypeScript 1.7](./doc/release-notes/TypeScript 1.7.md)
@@ -48,12 +53,12 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   * [混入](./doc/handbook/Mixins.md)
   * [三斜线指令](./doc/handbook/Triple-Slash Directives.md)
 * [如何书写声明文件](./doc/handbook/declaration files/Introduction.md)
-  * [库的结构](./doc/handbook/declaration files/Library Structures.md)
-  * [该做什么与不该做什么](./doc/handbook/declaration files/Do's and Don'ts.md)
-  * [由例子入手](./doc/handbook/declaration files/By Example.md)
-  * [深入探究](./doc/handbook/declaration files/Deep Dive.md)
-  * [发布到npm](./doc/handbook/declaration files/Publishing.md)
-  * [查找安装与使用](./doc/handbook/declaration files/Consumption.md)
+  * [结构](./doc/handbook/declaration files/Library Structures.md)
+  * [规范](./doc/handbook/declaration files/Do's and Don'ts.md)
+  * [举例](./doc/handbook/declaration files/By Example.md)
+  * [深入](./doc/handbook/declaration files/Deep Dive.md)
+  * [发布](./doc/handbook/declaration files/Publishing.md)
+  * [使用](./doc/handbook/declaration files/Consumption.md)
 * [工程配置](./doc/handbook/README.md)
   * [tsconfig.json](./doc/handbook/tsconfig.json.md)
   * [NPM包的类型](./doc/handbook/Typings for NPM Packages.md)
@@ -69,6 +74,8 @@ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   * [结合ASP.NET v5使用TypeScript](./doc/wiki/Using-TypeScript-With-ASP.NET-5.md)
   * [架构概述](./doc/wiki/Architectural-Overview.md)
   * [发展路线图](./doc/wiki/Roadmap.md)
+* Breaking Changes
+  * [TypeScript 2.0](./doc/breaking-changes/TypeScript 2.0.md)
 
 
 **TypeScript Handbook**

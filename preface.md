@@ -1,5 +1,7 @@
 # TypeScript Handbook（中文版）
 
+[TypeScript 2.0 正式发布!](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/?utm_source=javascriptweekly&utm_medium=email)
+
 > 从前打心眼儿里讨厌编译成JavaScript的这类语言，像Coffee，Dart等。
 > 但是在15年春节前后却爱上了TypeScript。
 > 同时非常喜欢的框架Dojo，Angularjs也宣布使用TypeScript做新版本的开发。
@@ -28,6 +30,7 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
   * [Knockout.js](./doc/handbook/tutorials/Knockout.html)
   * [React与webpack](./doc/handbook/tutorials/React & Webpack.html)
   * [Angular 2](./doc/handbook/tutorials/Angular 2.html)
+  * [从JavaScript迁移到TypeScript](./doc/handbook/tutorials/Migrating from JavaScript.html)
 * [新增功能](./doc/release-notes/README.html)
   * [TypeScript 1.8](./doc/release-notes/TypeScript 1.8.html)
   * [TypeScript 1.7](./doc/release-notes/TypeScript 1.7.html)
@@ -60,12 +63,12 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
   * [混入](./doc/handbook/Mixins.html)
   * [三斜线指令](./doc/handbook/Triple-Slash Directives.html)
 * [如何书写声明文件](./doc/handbook/declaration files/Introduction.html)
-  * [库的结构](./doc/handbook/declaration files/Library Structures.html)
-  * [该做什么与不该做什么](./doc/handbook/declaration files/Do's and Don'ts.html)
-  * [由例子入手](./doc/handbook/declaration files/By Example.html)
-  * [深入探究](./doc/handbook/declaration files/Deep Dive.html)
-  * [发布到npm](./doc/handbook/declaration files/Publishing.html)
-  * [查找安装与使用](./doc/handbook/declaration files/Consumption.html)
+  * [结构](./doc/handbook/declaration files/Library Structures.html)
+  * [规范](./doc/handbook/declaration files/Do's and Don'ts.html)
+  * [举例](./doc/handbook/declaration files/By Example.html)
+  * [深入](./doc/handbook/declaration files/Deep Dive.html)
+  * [发布](./doc/handbook/declaration files/Publishing.html)
+  * [使用](./doc/handbook/declaration files/Consumption.html)
 * [工程配置](./doc/handbook/README.html)
   * [tsconfig.json](./doc/handbook/tsconfig.json.html)
   * [NPM包的类型](./doc/handbook/Typings for NPM Packages.html)
@@ -81,10 +84,14 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
   * [结合ASP.NET v5使用TypeScript](./doc/wiki/Using-TypeScript-With-ASP.NET-5.html)
   * [架构概述](./doc/wiki/Architectural-Overview.html)
   * [发展路线图](./doc/wiki/Roadmap.html)
+* Breaking Changes
+  * [TypeScript 2.0](./doc/breaking-changes/TypeScript 2.0.html)
 
 
 ## 主要修改 (Latest 10 updates)
 
+* 2016-10-07 新增章节：[从JavaScript迁移到TypeScript](./doc/handbook/tutorials/Migrating from JavaScript.html)
+* 2016-09-26 新增章节：[基础类型 - Never](./doc/handbook/Basic Types.html)
 * 2016-08-19 新增章节：[如何书写声明文件](./doc/handbook/declaration files/Introduction.html)
 * 2016-07-21 新增章节：[noUnusedLocals和noUnusedParameter编译选项](./doc/handbook/Compiler Options in MSBuild.html)
 * 2016-07-21 新增章节：[tsconfig.json文件里的include和exclude匹配](./doc/handbook/tsconfig.json.html)
@@ -93,8 +100,6 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
 * 2016-07-20 新增章节：[基本类型 - Null and Undefined](./doc/handbook/Basic Types.html)
 * 2016-06-15 新增章节：快速上手：[Angular 2](./doc/handbook/tutorials/Angular 2.html)
 * 2016-06-11 新增章节：快速上手：[Gulp](./doc/handbook/tutorials/Gulp.html)
-* 2016-04-23 新增章节：[使用TypeScript的每日构建版本](./doc/handbook/Nightly Builds.html)
-* 2016-04-18 新增章节：[新增功能](./doc/release-notes/README.html)
 
 
 ## 相关链接
